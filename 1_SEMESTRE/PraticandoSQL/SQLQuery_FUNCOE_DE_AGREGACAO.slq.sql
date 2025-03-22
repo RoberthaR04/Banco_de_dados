@@ -9,3 +9,5 @@ FROM Clientes --faz a somatória da renda total
 GROUP BY ClienteBairro--para colunas que não estão usando função de agregação, fazo agrupamento
 
 ORDER BY Total DESC
+
+
