@@ -1,17 +1,17 @@
-💾 Banco de Dados
+##💾 Banco de Dados
 Repositório com materiais da disciplina de Banco de Dados.
 
-📚 O que tem aqui?
+##📚 O que tem aqui?
 📑 Slides com conteúdos teóricos
 💻 Scripts SQL feitos durante as aulas
 🛠 Exemplos de consultas, junções, filtros e funções agregadas
 
-📦 Banco_de_dados/
+##📦 Banco_de_dados/
 ├── 📁 Slides/       → Conteúdo teórico das aulas
 ├── 📁 Codigos/      → Scripts SQL prontos para executar
 └── 📄 README.md     → Você está aqui!
 
-🛠 Ferramentas
+##🛠 Ferramentas
 Azure Data Studio
 SQL Server
 
