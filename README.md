@@ -1,4 +1,4 @@
-🗂 Banco de Dados
+💾 Banco de Dados
 Repositório com materiais da disciplina de Banco de Dados.
 
 📚 O que tem aqui?
