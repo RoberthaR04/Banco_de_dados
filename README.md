@@ -1,37 +1,34 @@
-##💾 Banco de Dados
-Repositório com materiais da disciplina de Banco de Dados.
+# 🗄️ Banco de Dados
 
-##📚 O que tem aqui?
-📑 Slides com conteúdos teóricos
-💻 Scripts SQL feitos durante as aulas
-🛠 Exemplos de consultas, junções, filtros e funções agregadas
+Este repositório reúne os principais conteúdos da disciplina de **Banco de Dados**, com foco prático em **comandos SQL** desenvolvidos no **Azure Data Studio**.
 
-##📦 Banco_de_dados/
-├── 📁 Slides/       → Conteúdo teórico das aulas
-├── 📁 Codigos/      → Scripts SQL prontos para executar
-└── 📄 README.md     → Você está aqui!
+---
 
-##🛠 Ferramentas
-Azure Data Studio
-SQL Server
+## 📚 Conteúdo
 
--- Seleção de dados
-SELECT * FROM tabela;
+- Comandos `SELECT`, `INSERT`, `UPDATE`, `DELETE`
+- Criação e manipulação de tabelas
+- Utilização de `JOIN`, `WHERE`, `GROUP BY`, entre outros
+- Exemplos baseados em cenários práticos
 
--- Inserção de dados
-INSERT INTO tabela (coluna1, coluna2) VALUES (valor1, valor2);
+---
 
--- Atualização de dados
-UPDATE tabela SET coluna = valor WHERE condição;
+## 💻 Ferramentas utilizadas
 
--- Exclusão de dados
-DELETE FROM tabela WHERE condição;
+- 🧩 **Azure Data Studio**  
+- 🐘 **SQL**  
 
--- Junções
-SELECT * FROM tabela1
-JOIN tabela2 ON tabela1.coluna = tabela2.coluna;
+---
 
--- Agrupamento e agregações
-SELECT coluna, COUNT(*) FROM tabela
-GROUP BY coluna
-HAVING COUNT(*) > 1;
+## 📂 Organização
+
+- 📄 `Exercícios/`: Scripts SQL resolvidos  
+- 📊 `Slides/`: Materiais teóricos da disciplina  
+
+---
+
+## 🎯 Objetivo
+
+Compreender o funcionamento de bancos relacionais e praticar consultas com SQL usando uma ferramenta profissional.
+
+---
